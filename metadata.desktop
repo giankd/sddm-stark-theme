@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Stark
+Description=A simple SDDM Theme
+Author=Giankd
+Copyright=(c) 2023, Giankd
+Email=giankd@gmail.com
+License=GPLv3
+Type=sddm-theme
+Version=0.1.0
+Website=https://github.com/giankd/sddm-theme-stark
+Screenshot=
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=stark
+Theme-API=2.0
